@@ -1,2 +1,14 @@
 # vue2.0-template
-封装一系列的内部操作提供对外的简单操作
+
+## install depend
+```
+npm i
+```
+## run your app
+```
+npm run server
+```
+## build your app
+```
+npm run build
+```

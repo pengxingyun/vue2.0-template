@@ -13,11 +13,6 @@ let components = [
 ]
 Vue.config.productionTip = false
 
-// Vue.prototype.com = function() {
-//   return {
-//     alert: new alert()
-//   }
-// }
 new Vue({
   router,
   store: new storage(store, api, components), // components是全局组件只会执行一次

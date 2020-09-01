@@ -8,7 +8,7 @@
   </div>
 </template>
 
-<style>
+<style lang="less">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -19,6 +19,7 @@
 
 #nav {
   padding: 30px;
+  transform: translate(0, 0);
 }
 
 #nav a {
